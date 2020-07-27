@@ -54,7 +54,7 @@ THEN the saved events persist
 
 ```
 ## Screenshot
-![image](assets/screenshot_scheduler.jpg)
+![image](https://github.com/EdenKhaos/05-work-day-scheduler/blob/master/assets/screenshot_scheduler.JPG)
 
 ## Pseudo code for html
 1.  typical
