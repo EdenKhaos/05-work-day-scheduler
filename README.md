@@ -54,7 +54,7 @@ THEN the saved events persist
 
 ```
 ## Screenshot
-![home](public/assets/screenshot_scheduler.jpg)
+![image](public/assets/screenshot_scheduler.jpg)
 
 ## Pseudo code for html
 1.  typical
